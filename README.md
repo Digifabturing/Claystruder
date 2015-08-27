@@ -1,6 +1,6 @@
 # Claystruder
 
-<img src="https://raw.githubusercontent.com/Digifacturing/Claystruder/master/clayex.jpg" width="600"/>
+<img src="https://github.com/Digifabturing/Claystruder/blob/master/clayex.JPG?raw=true" width="600"/>
 
 ### Introduction:
 ///////////////////////
