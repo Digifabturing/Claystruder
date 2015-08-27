@@ -1,0 +1,5 @@
+In order to use our definition you will need these plugins:
+
+  - weawerbird  (http://www.giuliopiacentino.com/get-wb/)
+  - Heteroptera (from rhino for food)
+  - MeshTools (http://www.grasshopper3d.com/forum/topics/mesh-pipe)

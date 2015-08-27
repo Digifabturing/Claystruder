@@ -1,0 +1,17 @@
+PROGRAM tcom NOHOLD
+VAR vs_data : STRING[80] NOSAVE
+VAR vi_lun_r : INTEGER NOSAVE
+VAR vi_lun_w : INTEGER NOSAVE
+
+
+BEGIN
+ DV_CNTRL(4, 'COM1:', COM_BD115200 OR COM_RDAHD OR COM_BIT8 OR COM_PAR_NO OR COM_STOP1 OR COM_PASAL, 65536)
+
+
+CYCLE
+ WRITE vi_lun_w ('A') --turn on the motor
+ Delay 5000
+ WRITE vi_lun_w ('B') --turn off the motor
+ Delay 5000
+
+END tcom
