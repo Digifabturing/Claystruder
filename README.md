@@ -41,7 +41,7 @@ The Blue part is collecting all the grasshopper settings in order to control the
 11. finally ... you can export your code !! enjoy it
 
 
-A project of [DigifabTuring](http://digifabturing.tumblr.com/)
+A project of [digifabTuring](http://digifabturing.tumblr.com/)
 Developed by:
 
   Stefano Paradiso from [FablabTorino](http://fablabtorino.org/)/[Officine Arduino](http://local.arduino.cc/torino/), Andrea Graziano, Bruno Demasi,
