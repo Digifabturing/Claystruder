@@ -4,7 +4,7 @@ int motorPin = 11;
 char c;
 
 void setup() {
-  
+
   Serial.begin(115200);
   Serial1.begin(115200);
   delay(200);
@@ -25,7 +25,7 @@ void loop() {
 
   if (readRobot.length() > 0) {
     //Serial.println(readRobot);  //debug
-    analogWrite(motorPin, int(c));
+    analogWrite(motorPin, int(c)); //set the motor speed
     readRobot = ""; //empty for next input
   }
 }
