@@ -1,6 +1,6 @@
 # Claystruder
 
-<a href="https://www.youtube.com/watch?t=223&v=2klMRvXjjX8"><img src="https://github.com/Digifabturing/Claystruder/blob/master/clayex.JPG?raw=true" width="600"/></a>
+<a href="https://www.youtube.com/watch?t=223&v=2klMRvXjjX8"><img src="https://github.com/Digifabturing/Claystruder/blob/master/clayex.JPG?raw=true" width="100%"/></a>
 
 ### Introduction:
 
