@@ -1,3 +1,6 @@
+<img src="https://github.com/Digifabturing/Claystruder/blob/master/Tool/functioningSystem.jpg?raw=true" width="100%"/>
+functioning system
+
 ###BOM
 
 - n.1 meter Polypropylene Pipe diameter 32mm
@@ -21,6 +24,3 @@ the GND from the converter to the arduino GND.
 ### Motor connection
 We will use a MOSFET to control the motor, in this way we can control the motor speed to.
 For the connection and information about motor and MOSFET you can follow this [tutorial](http://bildr.org/2012/03/rfp30n06le-arduino/).
-
-<img src="https://github.com/Digifabturing/Claystruder/blob/master/Tool/functioningSystem.jpg?raw=true" width="100%"/>
-functioning system
